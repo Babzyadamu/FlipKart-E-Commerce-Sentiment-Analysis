@@ -1,10 +1,9 @@
 # FlipKart-E-Commerce-Sentiment-Analysis
 
+![sentiment-analysis-example](https://github.com/user-attachments/assets/e86d60ba-cf24-49aa-94cc-f8900659d204)
 
-![PowerApps Integration](https://github.com/user-attachments/assets/74f117cd-a4a2-4b01-af87-d1fa5429a460)
-
-![sentiment-analysis-example.png]
 # Introduction
+
 
 
 # Problem Statement
