@@ -7,3 +7,7 @@ FlipKart E-Commerce company is looking to improve their product performance, hen
 
 
 # Problem Statement
+
+- What are the main topics discussed in the reviews?
+- What insights can be gathered from the clusters?
+- How do customers generally feel about the product?
